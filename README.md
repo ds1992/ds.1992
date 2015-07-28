@@ -1,5 +1,4 @@
-# ds.1992.io
-校园网电视直播
+
 <!DOCTYPE html>
 
 <html>
